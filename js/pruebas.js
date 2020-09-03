@@ -39,4 +39,4 @@ function validarSeleccionDeCiudad(){
     )
 }
 
-validarSeleccionDeCiudad()
+validarSeleccionDeCiudad()      //* AGREGO UN COMENTARIO PARA HACER UN PUSH
